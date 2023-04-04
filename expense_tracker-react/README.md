@@ -14,6 +14,6 @@ This will install the necessary dependencies and start the development server, w
 
 The app includes the following features:<br>
 
-    Add expenses: Users can add new expenses, including a description and the cost of the expense. <br>
-    Set budgets: Users can set a monthly budget for their expenses and view their spending history. <br>
-    View history: The app displays a list of all expenses, including the date they were added, the amount spent, and the remaining budget. <br>
+    Add expenses: Users can add new expenses, including a description and the cost of the expense. 
+    Set budgets: Users can set a monthly budget for their expenses and view their spending history. 
+    View history: The app displays a list of all expenses, including the date they were added, the amount spent, and the remaining budget. 
